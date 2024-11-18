@@ -1,0 +1,15 @@
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\bin\Debug\net8.0\Assignment5-7.exe
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\bin\Debug\net8.0\Assignment5-7.deps.json
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\bin\Debug\net8.0\Assignment5-7.runtimeconfig.json
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\bin\Debug\net8.0\Assignment5-7.dll
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\bin\Debug\net8.0\Assignment5-7.pdb
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.AssemblyInfoInputs.cache
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.AssemblyInfo.cs
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.csproj.CoreCompileInputs.cache
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.sourcelink.json
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.dll
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\refint\Assignment5-7.dll
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.pdb
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\Assignment5-7.genruntimeconfig.cache
+c:\dev\Personal\programmeren-2-week-1-RdJ-Simon\Assignment5-8\obj\Debug\net8.0\ref\Assignment5-7.dll
